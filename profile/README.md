@@ -1,8 +1,8 @@
 ## Olá, bem vind@ ao Game Memory Project!  👋
 
-**Here are some ideas to get you started:**
+**Valorize suas memórias**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ Quem somos? - uma equipe de devs voluntários que trabalha em um sistema que faz uso da gamificação no tratamento de doenças relacionadas a memória
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
